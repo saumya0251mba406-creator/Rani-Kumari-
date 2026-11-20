@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer muted gold heritage diamond motif inside 66dp safe zone -->
+    <path
+        android:fillColor="#B68A46"
+        android:pathData="M54,24 L62,38 L78,38 L68,50 L74,66 L54,58 L34,66 L40,50 L30,38 L46,38 Z" />
+    <!-- Central warm ivory lotus / loom shuttle motif -->
+    <path
+        android:fillColor="#FAF7F2"
+        android:pathData="M54,29 C59,37 62,45 54,57 C46,45 49,37 54,29 Z" />
+    <path
+        android:fillColor="#FAF7F2"
+        android:pathData="M37,43 C44,44 49,49 51,57 C43,54 38,49 37,43 Z" />
+    <path
+        android:fillColor="#FAF7F2"
+        android:pathData="M71,43 C70,49 65,54 57,57 C59,49 64,44 71,43 Z" />
+    <!-- Gold woven base bar -->
+    <path
+        android:fillColor="#FAF7F2"
+        android:pathData="M36,69 L72,69 L68,74 L40,74 Z" />
+    <!-- Small gold accent diamond below -->
+    <path
+        android:fillColor="#B68A46"
+        android:pathData="M54,76 L58,80 L54,84 L50,80 Z" />
+</vector>

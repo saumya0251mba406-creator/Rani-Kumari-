@@ -1,0 +1,6 @@
+{
+  "name": "Riwaayat",
+  "description": "Indian regional-fashion discovery and WhatsApp order-enquiry prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
